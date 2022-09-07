@@ -5,6 +5,7 @@
 </template>
 
 <script>
+  import {auth} from '../api'
     export default {
         name: "Login"
     }
